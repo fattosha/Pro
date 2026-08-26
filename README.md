@@ -3,7 +3,7 @@ Hi there, I'm Menna Khaled
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;Computer+and+Information+Science+Student;Always+Learning+%26+Building" />
 </p><p align="center">
-  <i>“Turning ideas into clean, responsive, and interactive websites.”</i>
+  <i>Turning ideas into clean, responsive, and interactive websites.</i>
 </p>---
 
 About Me
@@ -17,7 +17,7 @@ About Me
 
 ---
 
-Languages & Tools
+Languages & Technologies
 
 Frontend
 
@@ -26,8 +26,15 @@ Frontend
 </p>Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,mysql" />
-</p>Tools
+  <img src="https://skillicons.dev/icons?i=cs,python" />
+</p>Computer Science
+
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- SQL
+- Assembly 8086
+
+Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -83,7 +90,7 @@ Connect With Me
   <a href="https://github.com/fattosha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/menna-khalid-2509b03b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>---

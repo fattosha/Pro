@@ -107,9 +107,6 @@ Front-end website project developed during my web development training.
 
 <hr />
 
-<p align="center">
-  <b>Always learning. Always building.</b>
-</p>
 
 
 

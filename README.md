@@ -4,7 +4,8 @@ Hi there, I'm Menna Khaled
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;Computer+and+Information+Science+Student;Always+Learning+%26+Building" />
 </p><p align="center">
   <i>Turning ideas into clean, responsive, and interactive websites.</i>
-</p>---
+</p>
+---
 
 About Me
 
@@ -38,7 +39,8 @@ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>---
+</p>
+---
 
 Featured Projects
 
@@ -70,13 +72,15 @@ GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=fattosha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattosha&layout=compact&theme=radical&hide_border=true" />
-</p>---
+</p>
+---
 
 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fattosha&theme=radical&hide_border=true" />
-</p>---
+</p>
+---
 
 Currently Learning
 

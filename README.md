@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi there , I'm Menna Khalid
+  Hi there 👋, I'm Menna Khalid
 </h1>
 
 <h3 align="center">
-  Your fattosh 
+  Your fattosh 💜
 </h3>
 
 <p align="center">
@@ -18,18 +18,18 @@
   <img src="https://komarev.com/ghpvc/?username=fattosha&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<hr>
+<hr />
 
-##  About Me
+## 👩‍💻 About Me
 
 - 🎓 Computer and Information Science Student
--  Front-End Web Developer
--  Currently improving my JavaScript and React skills
-- Building responsive websites and interactive interfaces
-- Interested in modern web technologies and Software Engineering
-- Always learning and working on new projects
+- 💻 Front-End Web Developer
+- 🌱 Currently improving my JavaScript and React skills
+- 🎨 Building responsive websites and interactive interfaces
+- 🧠 Interested in modern web technologies and Software Engineering
+- 🚀 Always learning and working on new projects
 
-<hr>
+<hr />
 
 ## 🛠️ Languages & Technologies
 
@@ -58,31 +58,26 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-<hr>
+<hr />
 
 ## 🚀 Featured Projects
 
 ### 🍴 Cook X
-
 Restaurant website built as a collaborative front-end project.
 
 ### 🌐 NTI Web Design
-
 Web design project created during NTI training.
 
 ### 📊 Template 4
-
 Responsive dashboard interface inspired by modern admin dashboard designs.
 
 ### 🎨 Template 3
-
 Responsive website built with HTML and CSS.
 
 ### ⚡ NTIONIX
-
 Front-end website project developed during my web development training.
 
-<hr>
+<hr />
 
 ## 🎯 Currently Learning
 
@@ -90,31 +85,35 @@ Front-end website project developed during my web development training.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=JavaScript;React;Modern+Front-End+Development;Building+Real-World+Projects;Learning+Something+New+Every+Day" />
 </p>
 
-<hr>
+<hr />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fattosha&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fattosha&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<hr />
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fattosha&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fattosha&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
 
-<hr>
+<hr />
 
-## 🐍 My Contribution Journey
+## 📈 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fattosha/fattosha/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://ghchart.rshah.org/8A2BE2/fattosha" alt="fattosha's Github Contributions" />
 </p>
 
-<hr>
-
-## 📈 My Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fattosha&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<hr>
+<hr />
 
 ## 💭 Developer Mindset
 
@@ -122,7 +121,7 @@ Front-end website project developed during my web development training.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Improve;Small+steps+every+day+%F0%9F%9A%80;Turning+ideas+into+real+projects+%F0%9F%92%BB" />
 </p>
 
-<hr>
+<hr />
 
 ## 🤝 Connect With Me
 
@@ -138,7 +137,7 @@ Front-end website project developed during my web development training.
 
 </p>
 
-<hr>
+<hr />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />

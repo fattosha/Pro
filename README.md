@@ -65,21 +65,7 @@ Front-end website project developed during my web development training.
 
 <hr>
 
-GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fattosha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattosha&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-
-GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fattosha&theme=radical&hide_border=true" />
-</p>
----
 
 Currently Learning
 

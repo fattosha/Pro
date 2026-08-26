@@ -5,7 +5,7 @@ Hi there, I'm Menna Khaled
 </p><p align="center">
   <i>Turning ideas into clean, responsive, and interactive websites.</i>
 </p>
----
+<hr>
 
 About Me
 
@@ -15,8 +15,7 @@ About Me
 - Building responsive websites and interactive interfaces
 - Interested in modern web technologies and Software Engineering
 - Always learning and working on new projects
-
----
+<hr>
 
 Languages & Technologies
 
@@ -40,7 +39,7 @@ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
----
+<hr>
 
 Featured Projects
 
@@ -64,7 +63,7 @@ NTIONIX
 
 Front-end website project developed during my web development training.
 
----
+<hr>
 
 GitHub Stats
 
@@ -73,7 +72,7 @@ GitHub Stats
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattosha&layout=compact&theme=radical&hide_border=true" />
 </p>
----
+
 
 GitHub Streak
 

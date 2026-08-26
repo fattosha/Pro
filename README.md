@@ -1,4 +1,4 @@
-Hi there, I'm Menna Khaled
+Hi there, I'm Menna Khalid (your fattosh)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;Computer+and+Information+Science+Student;Always+Learning+%26+Building" />
@@ -74,13 +74,21 @@ GitHub Streak
 </p>
 
 <hr />
+GitHub Stats
 
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fattosha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=radical&custom_title=Menna%20Khaled's%20GitHub%20Stats"
+    alt="Menna Khaled GitHub Stats"
+  />
+</p>
+<hr>
 Currently Learning
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=500&lines=JavaScript;React;Modern+Front-End+Development;Building+Real-World+Projects" />
-</p>---
+</p>
+<hr>
 
 Connect With Me
 
@@ -91,7 +99,7 @@ Connect With Me
   <a href="https://www.linkedin.com/in/menna-khalid-2509b03b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>---
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />

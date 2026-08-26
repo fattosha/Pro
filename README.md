@@ -64,7 +64,16 @@ NTIONIX
 Front-end website project developed during my web development training.
 
 <hr>
+GitHub Streak
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=fattosha&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<hr />
 
 
 Currently Learning
